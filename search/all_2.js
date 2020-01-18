@@ -10,7 +10,7 @@ var searchData=
   ['botplayercount_67',['BotPlayerCount',['../class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#a41370a32a504f0c6ab322095dad267ac',1,'HeathenEngineering::SteamApi::Networking::HeathenGameServerSettings']]],
   ['browselobbies_68',['BrowseLobbies',['../class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steam_lobby_display_list.html#a328337c880710c5eeba47bd5282f641e',1,'HeathenEngineering::SteamApi::Networking::SteamLobbyDisplayList']]],
   ['buildindex_69',['BuildIndex',['../class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_settings.html#ac6dc1f93aa87a907001cb7f805332085',1,'HeathenEngineering::SteamApi::PlayerServices::SteamworksInventorySettings']]],
-  ['buisycolor_70',['BuisyColor',['../class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon.html#aaf19bcbbc61908b3ebcbeb42b90b8d70',1,'HeathenEngineering::SteamApi::Foundation::SteamUserFullIcon']]],
+  ['buisycolor_70',['BuisyColor',['../class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon.html#a03ddc86877fd5915094f706320d7779d',1,'HeathenEngineering::SteamApi::Foundation::UI::SteamUserFullIcon']]],
   ['bytearrayevent_71',['ByteArrayEvent',['../class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_byte_array_event.html',1,'HeathenEngineering::SteamApi::Foundation']]],
   ['bytearrayevent_2ecs_72',['ByteArrayEvent.cs',['../_byte_array_event_8cs.html',1,'']]]
 ];

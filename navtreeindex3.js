@@ -1,9 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#aee5c2130d9886808fc1c232161cd695b":[1,0,0,0,2,9,39],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#aef70fbd71dd6e44bd3cd8c18b23c6f4d":[1,0,0,0,2,9,92],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#af0279287fa0ba5038c789a2cdb16141d":[1,0,0,0,2,9,25],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#af6c2bfcd77c925babcbc4de7ef9f5885":[1,0,0,0,2,9,3],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#af6ccf2ca950e76f8f1d80c0db0d51d0a":[1,0,0,0,2,9,14],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#afd0d3b687bd6b3503c37bef8f2506557":[1,0,0,0,2,9,15],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#aff25e61ec5e58db90fa393a1b9268139":[1,0,0,0,2,9,79],
@@ -249,5 +245,9 @@ var NAVTREEINDEX3 =
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html#ad1e59187d1b86ec92dfdd3d5c19b8aa1":[1,0,0,0,4,0,2],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html#ad94dea8e3725898482ff17da33f00abf":[1,0,0,0,4,0,5],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html#afde695d87efbad74a275b4c0d0c727d4":[1,0,0,0,4,0,4],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html":[1,0,0,0,4,1]
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html":[1,0,0,0,4,1],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html#a4b8260993a393869f340501eba8a7cd7":[1,0,0,0,4,1,0],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html":[1,0,0,0,4,3],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html#a8e5ab75633514a6642e4c5ac75aa48ba":[1,0,0,0,4,3,0],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html#aec1cd18524ad1c143795a4079580514a":[1,0,0,0,4,3,1]
 };

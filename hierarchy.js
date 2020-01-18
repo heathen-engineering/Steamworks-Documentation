@@ -29,9 +29,9 @@ var hierarchy =
     [ "HeathenEngineering.SteamApi.GameServices.HeathenCreateUpdateWorkshopCommunityItem", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item.html", null ],
     [ "HeathenEngineering.SteamApi.Foundation.HeathensSteamOverlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay.html", null ],
     [ "HeathenUIBehaviour", null, [
-      [ "HeathenEngineering.SteamApi.Foundation.SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_avatar_raw_image.html", null ],
-      [ "HeathenEngineering.SteamApi.Foundation.SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon.html", [
-        [ "HeathenEngineering.SteamApi.Foundation.SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button.html", null ]
+      [ "HeathenEngineering.SteamApi.Foundation.UI.SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image.html", null ],
+      [ "HeathenEngineering.SteamApi.Foundation.UI.SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon.html", [
+        [ "HeathenEngineering.SteamApi.Foundation.UI.SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button.html", null ]
       ] ],
       [ "HeathenEngineering.SteamApi.GameServices.HeathenWorkshopItemDisplay", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_display.html", null ],
       [ "HeathenEngineering.SteamApi.Networking.SteamworksLobbyChatMessage", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_chat_message.html", null ],
@@ -54,7 +54,7 @@ var hierarchy =
     ] ],
     [ "HeathenEngineering.SteamApi.PlayerServices.InventoryItemDefinitionCount", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_inventory_item_definition_count.html", null ],
     [ "IPointerClickHandler", null, [
-      [ "HeathenEngineering.SteamApi.Foundation.SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button.html", null ]
+      [ "HeathenEngineering.SteamApi.Foundation.UI.SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button.html", null ]
     ] ],
     [ "IPointerEnterHandler", null, [
       [ "HeathenEngineering.SteamApi.GameServices.HeathenWorkshopItemDisplay", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_display.html", null ],
@@ -85,7 +85,6 @@ var hierarchy =
     [ "HeathenEngineering.SteamApi.Networking.LobbyHunterStringFilter", "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_string_filter.html", null ],
     [ "HeathenEngineering.SteamApi.Networking.MetadataRecord", "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_metadata_record.html", null ],
     [ "MonoBehaviour", null, [
-      [ "HeathenEngineering.Console", "class_heathen_engineering_1_1_console.html", null ],
       [ "HeathenEngineering.SteamApi.Foundation.SteamAchievementHandler", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_achievement_handler.html", null ],
       [ "HeathenEngineering.SteamApi.Foundation.SteamworksFoundationManager", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html", null ],
       [ "HeathenEngineering.SteamApi.GameServices.HeathenWorkshopBrowser", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser.html", null ],
@@ -97,7 +96,8 @@ var hierarchy =
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksInventoryManager", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksLeaderboardManager", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_leaderboard_manager.html", null ],
-      [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksRemoteStorage", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html", null ]
+      [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksRemoteStorage", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html", null ],
+      [ "HeathenEngineering.UIX.Console", "class_heathen_engineering_1_1_u_i_x_1_1_console.html", null ]
     ] ],
     [ "PropertyDrawer", null, [
       [ "HeathenEngineering.SteamApi.Editors.ExchangeItemCountDrawer", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_exchange_item_count_drawer.html", null ]

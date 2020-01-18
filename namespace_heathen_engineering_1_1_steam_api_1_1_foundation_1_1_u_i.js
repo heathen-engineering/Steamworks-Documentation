@@ -1,0 +1,6 @@
+var namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i =
+[
+    [ "SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image" ],
+    [ "SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon" ],
+    [ "SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button" ]
+];

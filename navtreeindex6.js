@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_numeric_filter.html#a0ce8f63a3c5f2b5d8d7bcd7a65e9b8c1":[1,0,0,0,3,9,1],
+"struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_numeric_filter.html#a2793c82dfbe6a5ae287bc6c22d50a4bb":[1,0,0,0,3,9,0],
+"struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_numeric_filter.html#a2ae8e2644ccac18199d7dc662d468236":[1,0,0,0,3,9,2],
+"struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_string_filter.html":[1,0,0,0,3,10],
 "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_string_filter.html#a13611054c1d18afb421bbf6fa09c4884":[1,0,0,0,3,10,1],
 "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_string_filter.html#a2c81fb8e898fd749751f2e939db7bf8d":[1,0,0,0,3,10,2],
 "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_hunter_string_filter.html#abadf08a803e5de86fd266380d93c3a70":[1,0,0,0,3,10,0],

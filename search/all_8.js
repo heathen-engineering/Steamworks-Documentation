@@ -45,5 +45,6 @@ var searchData=
   ['networking_301',['Networking',['../namespace_heathen_engineering_1_1_steam_api_1_1_networking.html',1,'HeathenEngineering::SteamApi']]],
   ['playerservices_302',['PlayerServices',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html',1,'HeathenEngineering::SteamApi']]],
   ['steamapi_303',['SteamApi',['../namespace_heathen_engineering_1_1_steam_api.html',1,'HeathenEngineering']]],
-  ['ui_304',['UI',['../namespace_heathen_engineering_1_1_steam_api_1_1_networking_1_1_u_i.html',1,'HeathenEngineering::SteamApi::Networking']]]
+  ['ui_304',['UI',['../namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i.html',1,'HeathenEngineering.SteamApi.Foundation.UI'],['../namespace_heathen_engineering_1_1_steam_api_1_1_networking_1_1_u_i.html',1,'HeathenEngineering.SteamApi.Networking.UI']]],
+  ['uix_305',['UIX',['../namespace_heathen_engineering_1_1_u_i_x.html',1,'HeathenEngineering']]]
 ];

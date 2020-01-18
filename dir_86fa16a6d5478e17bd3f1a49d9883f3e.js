@@ -7,7 +7,7 @@ var dir_86fa16a6d5478e17bd3f1a49d9883f3e =
       [ "ByteArrayEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_byte_array_event.html", null ]
     ] ],
     [ "Console.cs", "_console_8cs.html", [
-      [ "Console", "class_heathen_engineering_1_1_console.html", "class_heathen_engineering_1_1_console" ]
+      [ "Console", "class_heathen_engineering_1_1_u_i_x_1_1_console.html", "class_heathen_engineering_1_1_u_i_x_1_1_console" ]
     ] ],
     [ "FriendChatMessageEvent.cs", "_friend_chat_message_event_8cs.html", [
       [ "FriendChatMessageEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_friend_chat_message_event.html", null ]
@@ -16,7 +16,7 @@ var dir_86fa16a6d5478e17bd3f1a49d9883f3e =
       [ "HeathensSteamOverlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay" ]
     ] ],
     [ "SteamAvatarRawImage.cs", "_steam_avatar_raw_image_8cs.html", [
-      [ "SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_avatar_raw_image.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_avatar_raw_image" ]
+      [ "SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image" ]
     ] ],
     [ "SteamSettings.cs", "_steam_settings_8cs.html", [
       [ "SteamSettings", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings" ]
@@ -25,10 +25,10 @@ var dir_86fa16a6d5478e17bd3f1a49d9883f3e =
       [ "SteamUserData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data" ]
     ] ],
     [ "SteamUserFullIcon.cs", "_steam_user_full_icon_8cs.html", [
-      [ "SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon" ]
+      [ "SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_full_icon" ]
     ] ],
     [ "SteamUserIconButton.cs", "_steam_user_icon_button_8cs.html", [
-      [ "SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button" ]
+      [ "SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button" ]
     ] ],
     [ "SteamUtilities.cs", "_steam_utilities_8cs.html", [
       [ "SteamUtilities", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities" ]
