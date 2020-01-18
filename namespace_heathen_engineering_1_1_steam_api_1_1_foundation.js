@@ -1,0 +1,28 @@
+var namespace_heathen_engineering_1_1_steam_api_1_1_foundation =
+[
+    [ "AppDlcData", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_app_dlc_data.html", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_app_dlc_data" ],
+    [ "ByteArrayEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_byte_array_event.html", null ],
+    [ "FriendChatMessageEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_friend_chat_message_event.html", null ],
+    [ "HeathensSteamOverlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay" ],
+    [ "SteamAchievementData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_achievement_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_achievement_data" ],
+    [ "SteamAchievementHandler", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_achievement_handler.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_achievement_handler" ],
+    [ "SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_avatar_raw_image.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_avatar_raw_image" ],
+    [ "SteamFloatStatData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_float_stat_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_float_stat_data" ],
+    [ "SteamIntStatData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_int_stat_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_int_stat_data" ],
+    [ "SteamSettings", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings" ],
+    [ "SteamStatData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_stat_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_stat_data" ],
+    [ "SteamUserData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data" ],
+    [ "SteamUserFullIcon", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_full_icon" ],
+    [ "SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_icon_button" ],
+    [ "SteamUtilities", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities" ],
+    [ "SteamworksFoundationManager", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager" ],
+    [ "UnityAvatarImageLoadedEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_avatar_image_loaded_event.html", null ],
+    [ "UnityNumberOfCurrentPlayersResultEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_number_of_current_players_result_event.html", null ],
+    [ "UnityPersonaEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_persona_event.html", null ],
+    [ "UnityPersonaStateChangeEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_persona_state_change_event.html", null ],
+    [ "UnityStatEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_stat_event.html", null ],
+    [ "UnitySteamIdEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_steam_id_event.html", null ],
+    [ "UnityUserAchievementStoredEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_achievement_stored_event.html", null ],
+    [ "UnityUserStatsReceivedEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_stats_received_event.html", null ],
+    [ "UnityUserStatsStoredEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_stats_stored_event.html", null ]
+];

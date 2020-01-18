@@ -1,0 +1,12 @@
+var namespace_heathen_engineering_1_1_steam_api_1_1_editors =
+[
+    [ "CraftingRecipeEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_crafting_recipe_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_crafting_recipe_editor" ],
+    [ "ExchangeItemCountDrawer", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_exchange_item_count_drawer.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_exchange_item_count_drawer" ],
+    [ "HeathenSteamLeaderboardEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_heathen_steam_leaderboard_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_heathen_steam_leaderboard_editor" ],
+    [ "SteamDataFileRecordEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steam_data_file_record_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steam_data_file_record_editor" ],
+    [ "SteamworksFoundationManagerEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_foundation_manager_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_foundation_manager_editor" ],
+    [ "SteamworksInventoryManagerEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_inventory_manager_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_inventory_manager_editor" ],
+    [ "SteamworksLeaderboardManagerEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_leaderboard_manager_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_leaderboard_manager_editor" ],
+    [ "SteamworksLobbyManagerEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_lobby_manager_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_lobby_manager_editor" ],
+    [ "SteamworksRemoteStorageEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_remote_storage_editor.html", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steamworks_remote_storage_editor" ]
+];
