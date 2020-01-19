@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('class_heathen_engineering_1_1_steam_ap
 </div><!--header-->
 <div class="contents">
 
-<p>Defines the relationship between a Steam Data File and a given Data Library  
+<p>A collection of fields that can be serialized and saved to the Steam Remote Storage system.  
  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for HeathenEngineering.SteamApi.PlayerServices.SteamDataLibrary:</div>
@@ -138,12 +138,14 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a14655ef83963403c94b2a9edb8b5ae57"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html#a14655ef83963403c94b2a9edb8b5ae57">filePrefix</a></td></tr>
 <tr class="separator:a14655ef83963403c94b2a9edb8b5ae57"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a244453c8d32382d0ad3f5d840ca4ec85"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file.html">SteamDataFile</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html#a244453c8d32382d0ad3f5d840ca4ec85">activeFile</a></td></tr>
+<tr class="memdesc:a244453c8d32382d0ad3f5d840ca4ec85"><td class="mdescLeft">&#160;</td><td class="mdescRight">If data has been loaded this will point to the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file.html">SteamDataFile</a> object that was loaded.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html#a244453c8d32382d0ad3f5d840ca4ec85">More...</a><br /></td></tr>
 <tr class="separator:a244453c8d32382d0ad3f5d840ca4ec85"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a204b232b00d5bb311ffa00dd31c9a3c2"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html">SteamDataFileAddress</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html#a204b232b00d5bb311ffa00dd31c9a3c2">availableFiles</a> = new List&lt;<a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html">SteamDataFileAddress</a>&gt;()</td></tr>
 <tr class="separator:a204b232b00d5bb311ffa00dd31c9a3c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Defines the relationship between a Steam Data File and a given Data Library </p>
+<div class="textblock"><p>A collection of fields that can be serialized and saved to the Steam Remote Storage system. </p>
+<p>This can be most simply thought of as the structure of a save file.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a5de294ede88454a0775e42d177be1866"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5de294ede88454a0775e42d177be1866">&#9670;&nbsp;</a></span>Load() <span class="overload">[1/3]</span></h2>
@@ -402,6 +404,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>If data has been loaded this will point to the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file.html">SteamDataFile</a> object that was loaded. </p>
+<p>This is useful for saving updates back to that same file.</p>
+
 </div>
 </div>
 <a id="a204b232b00d5bb311ffa00dd31c9a3c2"></a>
@@ -415,6 +420,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p></p>
+<p>A list of files matched to this library that are available to be loaded.</p>
+<p>This gets updated for all <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html" title="A collection of fields that can be serialized and saved to the Steam Remote Storage system.">SteamDataLibrary</a> objects registered to <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html" title="Manages the Steam Remote Storage system.">SteamworksRemoteStorage</a> when the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a7b2ad771fdd488d1e0ca8164b2c34e50" title="Populates the SteamDataFilesIndex with all files available to this Steam User">SteamworksRemoteStorage.RefreshDataFilesIndex</a> method is called.</p>
 
 </div>
 </div>
@@ -430,6 +439,10 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p></p>
+<p>The prefix of the file.</p>
+<p>This serves a funciton similar to a file extension in Windows in that the prefix of a file is how the system determins which <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html" title="A collection of fields that can be serialized and saved to the Steam Remote Storage system.">SteamDataLibrary</a> a file belongs to ... e.g. if the prefix of a library is 'sys_' then all files whoes name start with sys_ will be assumed to belong to that library.</p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -441,7 +454,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_heathen_engineering.html">HeathenEngineering</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api.html">SteamApi</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html">PlayerServices</a></li><li class="navelem"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html">SteamDataLibrary</a></li>
-    <li class="footer">Generated on Sat Jan 18 2020 01:35:25 for Steamworks by
+    <li class="footer">Generated on Sun Jan 19 2020 00:05:55 for Steamworks by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

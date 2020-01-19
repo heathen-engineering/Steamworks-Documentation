@@ -91,6 +91,9 @@ $(document).ready(function(){initNavTree('class_heathen_engineering_1_1_steam_ap
 <div class="title">HeathenEngineering.SteamApi.PlayerServices.SteamworksRemoteStorage Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Manages the Steam Remote Storage system.  
+ <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for HeathenEngineering.SteamApi.PlayerServices.SteamworksRemoteStorage:</div>
 <div class="dyncontent">
@@ -169,6 +172,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a2799e43a7a4d98949a0a4f155a3ce727"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new file, writes the bytes to the file, and then closes the file.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a2799e43a7a4d98949a0a4f155a3ce727">More...</a><br /></td></tr>
 <tr class="separator:a2799e43a7a4d98949a0a4f155a3ce727"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef777e7bcf6b4ff767a60c1c3fc32e8f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#aef777e7bcf6b4ff767a60c1c3fc32e8f">FileWriteData</a> (string fileName, byte[] data)</td></tr>
+<tr class="memdesc:aef777e7bcf6b4ff767a60c1c3fc32e8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes file to the target file from a byte[] of raw data.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#aef777e7bcf6b4ff767a60c1c3fc32e8f">More...</a><br /></td></tr>
 <tr class="separator:aef777e7bcf6b4ff767a60c1c3fc32e8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad4d8c5e15647cb2020fda369f4e8fae"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#aad4d8c5e15647cb2020fda369f4e8fae">FileWrite</a> (string fileName, <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html">SteamDataLibrary</a> lib)</td></tr>
 <tr class="memdesc:aad4d8c5e15647cb2020fda369f4e8fae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new file, writes the bytes to the file, and then closes the file.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#aad4d8c5e15647cb2020fda369f4e8fae">More...</a><br /></td></tr>
@@ -186,23 +190,31 @@ Public Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:af35f3b17d1607bfcf2e41ccae013fe6d"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html">SteamDataLibrary</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#af35f3b17d1607bfcf2e41ccae013fe6d">GameDataModel</a> = new List&lt;<a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html">SteamDataLibrary</a>&gt;()</td></tr>
+<tr class="memdesc:af35f3b17d1607bfcf2e41ccae013fe6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pointers to all available <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html" title="A collection of fields that can be serialized and saved to the Steam Remote Storage system.">SteamDataLibrary</a> objects that have been registered to the system.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#af35f3b17d1607bfcf2e41ccae013fe6d">More...</a><br /></td></tr>
 <tr class="separator:af35f3b17d1607bfcf2e41ccae013fe6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a359320628988c12dda69e1b04379f770"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html">SteamDataFileAddress</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a359320628988c12dda69e1b04379f770">SteamDataFilesIndex</a> = new List&lt;<a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html">SteamDataFileAddress</a>&gt;()</td></tr>
+<tr class="memdesc:a359320628988c12dda69e1b04379f770"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pointers to all available data files located on the Steam Remote Storage system.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a359320628988c12dda69e1b04379f770">More...</a><br /></td></tr>
 <tr class="separator:a359320628988c12dda69e1b04379f770"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8b188557f94ac5e4fcb2449e13376a90"><td class="memItemLeft" align="right" valign="top">UnityEvent&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a8b188557f94ac5e4fcb2449e13376a90">FileReadAsyncComplete</a></td></tr>
+<tr class="memdesc:a8b188557f94ac5e4fcb2449e13376a90"><td class="mdescLeft">&#160;</td><td class="mdescRight">Occures when a file read operation is compelted.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a8b188557f94ac5e4fcb2449e13376a90">More...</a><br /></td></tr>
 <tr class="separator:a8b188557f94ac5e4fcb2449e13376a90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8759eab4aeee70f2b1471cfdeac1f670"><td class="memItemLeft" align="right" valign="top">UnityEvent&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a8759eab4aeee70f2b1471cfdeac1f670">FileWriteAsyncComplete</a></td></tr>
+<tr class="memdesc:a8759eab4aeee70f2b1471cfdeac1f670"><td class="mdescLeft">&#160;</td><td class="mdescRight">Occures when a file write operation is completed.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a8759eab4aeee70f2b1471cfdeac1f670">More...</a><br /></td></tr>
 <tr class="separator:a8759eab4aeee70f2b1471cfdeac1f670"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6899250482fe078d55be1075ae74a692"><td class="memItemLeft" align="right" valign="top">Callback&lt; RemoteStorageFileReadAsyncComplete_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a6899250482fe078d55be1075ae74a692">fileReadAsyncComplete</a></td></tr>
+<tr class="memdesc:a6899250482fe078d55be1075ae74a692"><td class="mdescLeft">&#160;</td><td class="mdescRight">For internal use  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a6899250482fe078d55be1075ae74a692">More...</a><br /></td></tr>
 <tr class="separator:a6899250482fe078d55be1075ae74a692"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1a28c379cc38d14823b8b87e24714013"><td class="memItemLeft" align="right" valign="top">Callback&lt; RemoteStorageFileShareResult_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a1a28c379cc38d14823b8b87e24714013">fileShareResult</a></td></tr>
+<tr class="memdesc:a1a28c379cc38d14823b8b87e24714013"><td class="mdescLeft">&#160;</td><td class="mdescRight">For internal use  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a1a28c379cc38d14823b8b87e24714013">More...</a><br /></td></tr>
 <tr class="separator:a1a28c379cc38d14823b8b87e24714013"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac20848b50e19ac81919c7e1e99fb6ffb"><td class="memItemLeft" align="right" valign="top">Callback&lt; RemoteStorageFileWriteAsyncComplete_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#ac20848b50e19ac81919c7e1e99fb6ffb">fileWriteAsyncComplete</a></td></tr>
+<tr class="memdesc:ac20848b50e19ac81919c7e1e99fb6ffb"><td class="mdescLeft">&#160;</td><td class="mdescRight">For internal use  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#ac20848b50e19ac81919c7e1e99fb6ffb">More...</a><br /></td></tr>
 <tr class="separator:ac20848b50e19ac81919c7e1e99fb6ffb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a2e99ec76c1fe91e4d4f8b5be204b6a4c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html">SteamworksRemoteStorage</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a2e99ec76c1fe91e4d4f8b5be204b6a4c">Instance</a><code> [get]</code></td></tr>
+<tr class="memdesc:a2e99ec76c1fe91e4d4f8b5be204b6a4c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provides singleton like access to the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html" title="Manages the Steam Remote Storage system.">SteamworksRemoteStorage</a> system  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#a2e99ec76c1fe91e4d4f8b5be204b6a4c">More...</a><br /></td></tr>
 <tr class="separator:a2e99ec76c1fe91e4d4f8b5be204b6a4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae0545318496c6789a24453911e4fa064"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#ae0545318496c6789a24453911e4fa064">IsCloudEnabledForAccount</a><code> [get]</code></td></tr>
 <tr class="memdesc:ae0545318496c6789a24453911e4fa064"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the account wide Steam Cloud setting is enabled for this user; or if they disabled it in the Settings-&gt;Cloud dialog.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#ae0545318496c6789a24453911e4fa064">More...</a><br /></td></tr>
@@ -211,7 +223,9 @@ Properties</h2></td></tr>
 <tr class="memdesc:ae9052707f44eeac51e1630466248966e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the per game Steam Cloud setting is enabled for this user; or if they disabled it in the Game Properties-&gt;Update dialog.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html#ae9052707f44eeac51e1630466248966e">More...</a><br /></td></tr>
 <tr class="separator:ae9052707f44eeac51e1630466248966e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Manages the Steam Remote Storage system. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a451ac1641277449f0371e20a22ad38aa"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a451ac1641277449f0371e20a22ad38aa">&#9670;&nbsp;</a></span>FileDelete() <span class="overload">[1/2]</span></h2>
 
@@ -748,6 +762,16 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Writes file to the target file from a byte[] of raw data. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">fileName</td><td></td></tr>
+    <tr><td class="paramname">data</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
 </div>
 </div>
 <a id="aa642af16fe538796f4d96848806c6f0c"></a>
@@ -1062,6 +1086,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Occures when a file read operation is compelted. </p>
+
 </div>
 </div>
 <a id="a6899250482fe078d55be1075ae74a692"></a>
@@ -1075,6 +1101,8 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>For internal use </p>
 
 </div>
 </div>
@@ -1090,6 +1118,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>For internal use </p>
+
 </div>
 </div>
 <a id="a8759eab4aeee70f2b1471cfdeac1f670"></a>
@@ -1103,6 +1133,8 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Occures when a file write operation is completed. </p>
 
 </div>
 </div>
@@ -1118,6 +1150,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>For internal use </p>
+
 </div>
 </div>
 <a id="af35f3b17d1607bfcf2e41ccae013fe6d"></a>
@@ -1132,6 +1166,9 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Pointers to all available <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html" title="A collection of fields that can be serialized and saved to the Steam Remote Storage system.">SteamDataLibrary</a> objects that have been registered to the system. </p>
+<p>These represent the structure of unique types of save files.</p>
+
 </div>
 </div>
 <a id="a359320628988c12dda69e1b04379f770"></a>
@@ -1145,6 +1182,8 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Pointers to all available data files located on the Steam Remote Storage system. </p>
 
 </div>
 </div>
@@ -1168,6 +1207,8 @@ Properties</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p>Provides singleton like access to the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html" title="Manages the Steam Remote Storage system.">SteamworksRemoteStorage</a> system </p>
 
 </div>
 </div>
@@ -1230,7 +1271,7 @@ Properties</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_heathen_engineering.html">HeathenEngineering</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api.html">SteamApi</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html">PlayerServices</a></li><li class="navelem"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html">SteamworksRemoteStorage</a></li>
-    <li class="footer">Generated on Sat Jan 18 2020 01:35:25 for Steamworks by
+    <li class="footer">Generated on Sun Jan 19 2020 00:05:58 for Steamworks by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

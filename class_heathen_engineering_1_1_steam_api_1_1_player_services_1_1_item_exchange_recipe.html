@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('class_heathen_engineering_1_1_steam_ap
 </div><!--header-->
 <div class="contents">
 
-<p>Simplifies Valve's exchange recipie process Note that at current ExchangeItems can only generate 1 item per call dispite handling an array For this reason we have limited the recipie to a single generated item definition  
+<p>Simplifies Valve's exchange recipie process Note that at current ExchangeItems can only generate 1 item per call dispite handling an array For this reason we have limited the recipie to a single generated item definition.  
  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -99,21 +99,27 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:acf00a0140e9d48ab312b9341a24a7733"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#acf00a0140e9d48ab312b9341a24a7733">ItemExchangeRecipe</a> ()</td></tr>
 <tr class="separator:acf00a0140e9d48ab312b9341a24a7733"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acffcc93892dab4553e269476812e01d3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#acffcc93892dab4553e269476812e01d3">ItemExchangeRecipe</a> (SteamItemDef_t toGenerate, IEnumerable&lt; <a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_exchange_item_count.html">ExchangeItemCount</a> &gt; toBeConsumed)</td></tr>
+<tr class="memdesc:acffcc93892dab4553e269476812e01d3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructs a new recipe based on a taget item to create and a collection of items to be consumed.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#acffcc93892dab4553e269476812e01d3">More...</a><br /></td></tr>
 <tr class="separator:acffcc93892dab4553e269476812e01d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaac269079df3903d8dae2a5beddbd81f"><td class="memItemLeft" align="right" valign="top">SteamItemInstanceID_t[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#aaac269079df3903d8dae2a5beddbd81f">GetInstanceArray</a> ()</td></tr>
+<tr class="memdesc:aaac269079df3903d8dae2a5beddbd81f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the items to consume into an array of SteamItemInstanceID_t for use with the steamAPI  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#aaac269079df3903d8dae2a5beddbd81f">More...</a><br /></td></tr>
 <tr class="separator:aaac269079df3903d8dae2a5beddbd81f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d0d2d077aa48bdf76fa345186f468cd"><td class="memItemLeft" align="right" valign="top">uint[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#a6d0d2d077aa48bdf76fa345186f468cd">GetQuantityArray</a> ()</td></tr>
+<tr class="memdesc:a6d0d2d077aa48bdf76fa345186f468cd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts the items to consume into an array of item quantities for use with the steamAPI  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#a6d0d2d077aa48bdf76fa345186f468cd">More...</a><br /></td></tr>
 <tr class="separator:a6d0d2d077aa48bdf76fa345186f468cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a9ddeda8fe8d850d7c6fbfb4c3fb3a72e"><td class="memItemLeft" align="right" valign="top">SteamItemDef_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#a9ddeda8fe8d850d7c6fbfb4c3fb3a72e">ItemToGenerate</a></td></tr>
+<tr class="memdesc:a9ddeda8fe8d850d7c6fbfb4c3fb3a72e"><td class="mdescLeft">&#160;</td><td class="mdescRight">The id of the item to generate  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#a9ddeda8fe8d850d7c6fbfb4c3fb3a72e">More...</a><br /></td></tr>
 <tr class="separator:a9ddeda8fe8d850d7c6fbfb4c3fb3a72e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abc81d438a4ee32a1f7c1762ede3767ba"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_exchange_item_count.html">ExchangeItemCount</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#abc81d438a4ee32a1f7c1762ede3767ba">ItemsToConsume</a> = new List&lt;<a class="el" href="struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_exchange_item_count.html">ExchangeItemCount</a>&gt;()</td></tr>
+<tr class="memdesc:abc81d438a4ee32a1f7c1762ede3767ba"><td class="mdescLeft">&#160;</td><td class="mdescRight">The item ids and counts of the items to be consumed in the process of generation.  <a href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html#abc81d438a4ee32a1f7c1762ede3767ba">More...</a><br /></td></tr>
 <tr class="separator:abc81d438a4ee32a1f7c1762ede3767ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Simplifies Valve's exchange recipie process Note that at current ExchangeItems can only generate 1 item per call dispite handling an array For this reason we have limited the recipie to a single generated item definition </p>
+<div class="textblock"><p>Simplifies Valve's exchange recipie process Note that at current ExchangeItems can only generate 1 item per call dispite handling an array For this reason we have limited the recipie to a single generated item definition. </p>
+<p>Note that it is a limitation of Steamworks from Valve that single item generation is the case.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="acf00a0140e9d48ab312b9341a24a7733"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acf00a0140e9d48ab312b9341a24a7733">&#9670;&nbsp;</a></span>ItemExchangeRecipe() <span class="overload">[1/2]</span></h2>
@@ -158,6 +164,15 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Constructs a new recipe based on a taget item to create and a collection of items to be consumed. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">toGenerate</td><td></td></tr>
+    <tr><td class="paramname">toBeConsumed</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
@@ -176,6 +191,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Converts the items to consume into an array of SteamItemInstanceID_t for use with the steamAPI </p>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
 </div>
 </div>
 <a id="a6d0d2d077aa48bdf76fa345186f468cd"></a>
@@ -193,6 +211,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Converts the items to consume into an array of item quantities for use with the steamAPI </p>
+<dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -208,6 +229,8 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>The item ids and counts of the items to be consumed in the process of generation. </p>
+
 </div>
 </div>
 <a id="a9ddeda8fe8d850d7c6fbfb4c3fb3a72e"></a>
@@ -222,6 +245,8 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>The id of the item to generate </p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -233,7 +258,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_heathen_engineering.html">HeathenEngineering</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api.html">SteamApi</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html">PlayerServices</a></li><li class="navelem"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_item_exchange_recipe.html">ItemExchangeRecipe</a></li>
-    <li class="footer">Generated on Sat Jan 18 2020 01:35:24 for Steamworks by
+    <li class="footer">Generated on Sun Jan 19 2020 00:05:55 for Steamworks by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

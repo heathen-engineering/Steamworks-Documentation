@@ -1,5 +1,6 @@
 var namespace_heathen_engineering_1_1_steam_api_1_1_player_services =
 [
+    [ "UI", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i.html", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i" ],
     [ "BasicLeaderboardEntry", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry" ],
     [ "CraftingRecipe", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe" ],
     [ "ExchangeItemCount", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_exchange_item_count.html", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_exchange_item_count" ],
@@ -18,8 +19,6 @@ var namespace_heathen_engineering_1_1_steam_api_1_1_player_services =
     [ "LeaderboardUserData", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_leaderboard_user_data.html", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_leaderboard_user_data" ],
     [ "SteamDataFile", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file" ],
     [ "SteamDataFileAddress", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address" ],
-    [ "SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list" ],
-    [ "SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_record.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_record" ],
     [ "SteamDataLibrary", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library" ],
     [ "SteamworksAuthentication", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication" ],
     [ "SteamworksInventoryManager", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager" ],

@@ -7,10 +7,10 @@ var dir_8085076dbbf9fb0f7bd0433d4b018947 =
       [ "SteamDataFileAddress", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html", "struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address" ]
     ] ],
     [ "SteamDataFileList.cs", "_steam_data_file_list_8cs.html", [
-      [ "SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list" ]
+      [ "SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_list.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_list" ]
     ] ],
     [ "SteamDataFileRecord.cs", "_steam_data_file_record_8cs.html", [
-      [ "SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_record.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_record" ]
+      [ "SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record" ]
     ] ],
     [ "SteamDataLibrary.cs", "_steam_data_library_8cs.html", [
       [ "SteamDataLibrary", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_library" ]

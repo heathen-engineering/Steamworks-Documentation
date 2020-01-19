@@ -2,7 +2,7 @@ var hierarchy =
 [
     [ "HeathenEngineering.SteamApi.Foundation.AppDlcData", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_app_dlc_data.html", null ],
     [ "Button", null, [
-      [ "HeathenEngineering.SteamApi.PlayerServices.SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_record.html", null ]
+      [ "HeathenEngineering.SteamApi.PlayerServices.UI.SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record.html", null ]
     ] ],
     [ "ButtonEditor", null, [
       [ "HeathenEngineering.SteamApi.Editors.SteamDataFileRecordEditor", "class_heathen_engineering_1_1_steam_api_1_1_editors_1_1_steam_data_file_record_editor.html", null ]
@@ -93,10 +93,10 @@ var hierarchy =
       [ "HeathenEngineering.SteamApi.Networking.HeathenGameServerManager", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_manager.html", null ],
       [ "HeathenEngineering.SteamApi.Networking.LobbyRecordBehvaiour", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_lobby_record_behvaiour.html", null ],
       [ "HeathenEngineering.SteamApi.Networking.SteamLobbyDisplayList", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steam_lobby_display_list.html", null ],
-      [ "HeathenEngineering.SteamApi.PlayerServices.SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_list.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksInventoryManager", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksLeaderboardManager", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_leaderboard_manager.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksRemoteStorage", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_remote_storage.html", null ],
+      [ "HeathenEngineering.SteamApi.PlayerServices.UI.SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_list.html", null ],
       [ "HeathenEngineering.UIX.Console", "class_heathen_engineering_1_1_u_i_x_1_1_console.html", null ]
     ] ],
     [ "PropertyDrawer", null, [
