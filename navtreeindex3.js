@@ -1,8 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#af6ccf2ca950e76f8f1d80c0db0d51d0a":[1,0,0,0,2,9,14],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#afd0d3b687bd6b3503c37bef8f2506557":[1,0,0,0,2,9,15],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#aff25e61ec5e58db90fa393a1b9268139":[1,0,0,0,2,9,79],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_heathen_workshop_item_query_event.html":[1,0,0,0,2,10],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_remote_storage_download_u_g_c_result_event.html":[1,0,0,0,2,11],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_workshop_add_app_dependency_result_event.html":[1,0,0,0,2,12],
@@ -249,5 +246,8 @@ var NAVTREEINDEX3 =
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html#a4b8260993a393869f340501eba8a7cd7":[1,0,0,0,4,2,0],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html":[1,0,0,0,4,4],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html#a8e5ab75633514a6642e4c5ac75aa48ba":[1,0,0,0,4,4,0],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html#aec1cd18524ad1c143795a4079580514a":[1,0,0,0,4,4,1]
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_extended_leaderboard_entry.html#aec1cd18524ad1c143795a4079580514a":[1,0,0,0,4,4,1],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html":[1,0,0,0,4,6],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a084238f3358fb67996c3330779ab70b2":[1,0,0,0,4,6,4],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a12349f425a6f00e30b1d798b311a449c":[1,0,0,0,4,6,5]
 };

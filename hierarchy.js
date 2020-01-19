@@ -26,7 +26,6 @@ var hierarchy =
       [ "HeathenEngineering.SteamApi.Networking.SteamworksLobbyManager", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_manager.html", null ],
       [ "HeathenEngineering.SteamApi.PlayerServices.HeathenLeaderboardStatTool", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html", null ]
     ] ],
-    [ "HeathenEngineering.SteamApi.GameServices.HeathenCreateUpdateWorkshopCommunityItem", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item.html", null ],
     [ "HeathenEngineering.SteamApi.Foundation.HeathensSteamOverlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay.html", null ],
     [ "HeathenUIBehaviour", null, [
       [ "HeathenEngineering.SteamApi.Foundation.UI.SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image.html", null ],
@@ -130,6 +129,7 @@ var hierarchy =
     [ "HeathenEngineering.SteamApi.Networking.SteamworksLobbyMetadata", "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_metadata.html", null ],
     [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksPlayerInventory", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html", null ],
     [ "HeathenEngineering.SteamApi.GameServices.SteamworksWorkshop", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html", null ],
+    [ "HeathenEngineering.SteamApi.GameServices.SteamworksWorkshopItemEditorTool", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop_item_editor_tool.html", null ],
     [ "HeathenEngineering.SteamApi.Networking.StringKeyValuePair", "struct_heathen_engineering_1_1_steam_api_1_1_networking_1_1_string_key_value_pair.html", null ],
     [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksAuthentication.Ticket", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html", null ],
     [ "UnityEvent", null, [

@@ -249,5 +249,5 @@ var NAVTREEINDEX1 =
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_achievement_stored_event.html":[1,0,0,0,1,20],
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_stats_received_event.html":[1,0,0,0,1,21],
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_unity_user_stats_stored_event.html":[1,0,0,0,1,22],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item.html":[1,0,0,0,2,0]
+"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser.html":[1,0,0,0,2,0]
 };

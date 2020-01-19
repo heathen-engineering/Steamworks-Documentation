@@ -1,8 +1,5 @@
 var dir_b79623df52995fff556164ba47dddc4b =
 [
-    [ "HeathenCreateUpdateWorkshopCommunityItem.cs", "_heathen_create_update_workshop_community_item_8cs.html", [
-      [ "HeathenCreateUpdateWorkshopCommunityItem", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item" ]
-    ] ],
     [ "HeathenWorkshopBrowser.cs", "_heathen_workshop_browser_8cs.html", [
       [ "HeathenWorkshopBrowser", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser" ]
     ] ],
@@ -20,6 +17,9 @@ var dir_b79623df52995fff556164ba47dddc4b =
     ] ],
     [ "SteamworksWorkshop.cs", "_steamworks_workshop_8cs.html", [
       [ "SteamworksWorkshop", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop" ]
+    ] ],
+    [ "SteamworksWorkshopItemEditorTool.cs", "_steamworks_workshop_item_editor_tool_8cs.html", [
+      [ "SteamworksWorkshopItemEditorTool", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop_item_editor_tool.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop_item_editor_tool" ]
     ] ],
     [ "UnityHeathenWorkshopItemQueryEvent.cs", "_unity_heathen_workshop_item_query_event_8cs.html", [
       [ "UnityHeathenWorkshopItemQueryEvent", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_heathen_workshop_item_query_event.html", null ]

@@ -1,6 +1,5 @@
 var namespace_heathen_engineering_1_1_steam_api_1_1_game_services =
 [
-    [ "HeathenCreateUpdateWorkshopCommunityItem", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_create_update_workshop_community_item" ],
     [ "HeathenWorkshopBrowser", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_browser" ],
     [ "HeathenWorkshopItemDisplay", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_display.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_display" ],
     [ "HeathenWorkshopItemQuery", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_query.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_heathen_workshop_item_query" ],
@@ -10,6 +9,7 @@ var namespace_heathen_engineering_1_1_steam_api_1_1_game_services =
     [ "SteamworksDLCManager", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_d_l_c_manager.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_d_l_c_manager" ],
     [ "SteamworksVoiceManager", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager" ],
     [ "SteamworksWorkshop", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop" ],
+    [ "SteamworksWorkshopItemEditorTool", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop_item_editor_tool.html", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop_item_editor_tool" ],
     [ "UnityHeathenWorkshopItemQueryEvent", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_heathen_workshop_item_query_event.html", null ],
     [ "UnityRemoteStorageDownloadUGCResultEvent", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_remote_storage_download_u_g_c_result_event.html", null ],
     [ "UnityWorkshopAddAppDependencyResultEvent", "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_unity_workshop_add_app_dependency_result_event.html", null ],

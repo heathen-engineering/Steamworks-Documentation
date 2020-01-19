@@ -1,8 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html":[1,0,0,0,4,6],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a084238f3358fb67996c3330779ab70b2":[1,0,0,0,4,6,4],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a12349f425a6f00e30b1d798b311a449c":[1,0,0,0,4,6,5],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a23a182fd94633bc27fe753a22af30319":[1,0,0,0,4,6,7],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a23c41fd68bff2fe31dda6e5b641eebea":[1,0,0,0,4,6,1],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_leaderboard_stat_tool.html#a53c6f26da333f44e299e43a19bc3b682":[1,0,0,0,4,6,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX4 =
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a5c9ea50657cb9b06e1d51d6e324321fd":[1,0,0,0,4,26,13],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a6932bc56959839dfcae970e50afbb830":[1,0,0,0,4,26,1],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a6a5a6ca6e87e792837eea73746f09535":[1,0,0,0,4,26,19],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a6f86e0d101b1eaab8023766517960365":[1,0,0,0,4,26,0]
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a6f86e0d101b1eaab8023766517960365":[1,0,0,0,4,26,0],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a72655e14ac199bffbb1d4d6b0a8dcbf6":[1,0,0,0,4,26,3],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#a7c4053176bbe2fb5751da4f51fd78c0f":[1,0,0,0,4,26,20],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_player_inventory.html#aaca246f18a82a4cf4e7dcd1946b3a1a8":[1,0,0,0,4,26,9]
 };
