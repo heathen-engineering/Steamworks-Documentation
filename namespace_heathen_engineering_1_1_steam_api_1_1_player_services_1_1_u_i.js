@@ -1,5 +1,6 @@
 var namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i =
 [
     [ "SteamDataFileList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_list.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_list" ],
-    [ "SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record" ]
+    [ "SteamDataFileRecord", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steam_data_file_record" ],
+    [ "SteamworksLeaderboardList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steamworks_leaderboard_list.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steamworks_leaderboard_list" ]
 ];

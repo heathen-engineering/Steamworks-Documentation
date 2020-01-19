@@ -220,7 +220,7 @@ var hierarchy =
         [ "HeathenEngineering.SteamApi.PlayerServices.HeathenSteamLeaderboardEntry", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_heathen_steam_leaderboard_entry.html", [
           [ "HeathenEngineering.SteamApi.PlayerServices.BasicLeaderboardEntry", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html", null ]
         ] ],
-        [ "HeathenEngineering.SteamApi.PlayerServices.SteamworksLeaderboardList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_leaderboard_list.html", null ]
+        [ "HeathenEngineering.SteamApi.PlayerServices.UI.SteamworksLeaderboardList", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i_1_1_steamworks_leaderboard_list.html", null ]
       ] ],
       [ "HeathenEngineering.Tools.LanguageDropdown", "class_heathen_engineering_1_1_tools_1_1_language_dropdown.html", null ],
       [ "HeathenEngineering.Tools.ObjectLister", "class_heathen_engineering_1_1_tools_1_1_object_lister.html", null ],
