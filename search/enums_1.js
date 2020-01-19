@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['statdatatype_2098',['StatDataType',['../class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_stat_data.html#a8295105e12e48923749c22d55f835b0b',1,'HeathenEngineering::SteamApi::Foundation::SteamStatData']]]
+  ['inventoryitemtype_3673',['InventoryItemType',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html#a05ab65b2c63737cf7bd15f09ba14f9ec',1,'HeathenEngineering::SteamApi::PlayerServices']]]
 ];

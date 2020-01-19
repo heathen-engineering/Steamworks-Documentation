@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['inventoryitemtype_2097',['InventoryItemType',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html#a05ab65b2c63737cf7bd15f09ba14f9ec',1,'HeathenEngineering::SteamApi::PlayerServices']]]
+  ['debuglevel_3672',['DebugLevel',['../class_heathen_engineering_1_1_tools_1_1_console_logger.html#aa24bac575e26e6d01f6d50ef3e750c37',1,'HeathenEngineering::Tools::ConsoleLogger']]]
 ];

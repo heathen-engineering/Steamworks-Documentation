@@ -1,0 +1,4 @@
+var namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_demo =
+[
+    [ "ExampleStatsUpdate", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_demo_1_1_example_stats_update.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_demo_1_1_example_stats_update" ]
+];

@@ -1,5 +1,6 @@
 var namespace_heathen_engineering_1_1_steam_api_1_1_player_services =
 [
+    [ "Demo", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_demo.html", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_demo" ],
     [ "UI", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i.html", "namespace_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_u_i" ],
     [ "BasicLeaderboardEntry", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_basic_leaderboard_entry" ],
     [ "CraftingRecipe", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe.html", "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_crafting_recipe" ],

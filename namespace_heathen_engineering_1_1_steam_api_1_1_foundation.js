@@ -1,5 +1,6 @@
 var namespace_heathen_engineering_1_1_steam_api_1_1_foundation =
 [
+    [ "Demo", "namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_demo.html", "namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_demo" ],
     [ "UI", "namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i.html", "namespace_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i" ],
     [ "AppDlcData", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_app_dlc_data.html", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_app_dlc_data" ],
     [ "ByteArrayEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_byte_array_event.html", null ],

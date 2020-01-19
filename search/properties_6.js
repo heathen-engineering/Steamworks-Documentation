@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['lobbyid_2128',['lobbyId',['../class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#ac33038744a53c87ccb5d86bd57742a67',1,'HeathenEngineering::SteamApi::Networking::SteamworksLobbySettings']]],
-  ['localtimestamp_2129',['LocalTimestamp',['../struct_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steam_data_file_address.html#a64e55e15f678726db8d3f25fada865dd',1,'HeathenEngineering::SteamApi::PlayerServices::SteamDataFileAddress']]]
+  ['g_3702',['g',['../class_heathen_engineering_1_1_serializable_1_1_serializable_color.html#aff82fe9956873f3fc91a483d96d6ff68',1,'HeathenEngineering::Serializable::SerializableColor']]]
 ];
