@@ -26,8 +26,9 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Steamworks
+   &#160;<span id="projectnumber">2018.4.15.16</span>
    </div>
-   <div id="projectbrief">Heathen Engineering&#39;s Steamworks Documentaiton!</div>
+   <div id="projectbrief">Heathen Engineering&#39;s Steamworks Documentation!</div>
   </td>
  </tr>
  </tbody>
@@ -91,6 +92,9 @@ $(document).ready(function(){initNavTree('class_heathen_engineering_1_1_steam_ap
 <div class="title">HeathenEngineering.SteamApi.GameServices.SteamworksVoiceManager Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>Manages the Steam Voice feature.  
+ <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for HeathenEngineering.SteamApi.GameServices.SteamworksVoiceManager:</div>
 <div class="dyncontent">
@@ -101,27 +105,37 @@ Inheritance diagram for HeathenEngineering.SteamApi.GameServices.SteamworksVoice
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:abf50ef8012b0ead2f7be61d6a16cbbd2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#abf50ef8012b0ead2f7be61d6a16cbbd2">StartRecording</a> ()</td></tr>
+<tr class="memdesc:abf50ef8012b0ead2f7be61d6a16cbbd2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the Steam API recording audio from the user's configured mic  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#abf50ef8012b0ead2f7be61d6a16cbbd2">More...</a><br /></td></tr>
 <tr class="separator:abf50ef8012b0ead2f7be61d6a16cbbd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab6b75ba31fabfd716f61d95d4b63b202"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ab6b75ba31fabfd716f61d95d4b63b202">StopRecording</a> ()</td></tr>
+<tr class="memdesc:ab6b75ba31fabfd716f61d95d4b63b202"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stops the Steam API from recording audio for the user's configured mic  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ab6b75ba31fabfd716f61d95d4b63b202">More...</a><br /></td></tr>
 <tr class="separator:ab6b75ba31fabfd716f61d95d4b63b202"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac0b1e8d4814afbdb9c2db8645fd0eb07"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ac0b1e8d4814afbdb9c2db8645fd0eb07">PlayVoiceData</a> (byte[] buffer)</td></tr>
+<tr class="memdesc:ac0b1e8d4814afbdb9c2db8645fd0eb07"><td class="mdescLeft">&#160;</td><td class="mdescRight">Players a recieved Steam Voice package through the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad831d025dbcc807c61b868dd556486db" title="The audio source to output recieved and decoded voice messages to.">OutputSource</a> AudioSource.  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ac0b1e8d4814afbdb9c2db8645fd0eb07">More...</a><br /></td></tr>
 <tr class="separator:ac0b1e8d4814afbdb9c2db8645fd0eb07"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:ad831d025dbcc807c61b868dd556486db"><td class="memItemLeft" align="right" valign="top">AudioSource&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad831d025dbcc807c61b868dd556486db">OutputSource</a></td></tr>
+<tr class="memdesc:ad831d025dbcc807c61b868dd556486db"><td class="mdescLeft">&#160;</td><td class="mdescRight">The audio source to output recieved and decoded voice messages to.  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad831d025dbcc807c61b868dd556486db">More...</a><br /></td></tr>
 <tr class="separator:ad831d025dbcc807c61b868dd556486db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5372b84fc066acf8cc493b32059fe52"><td class="memItemLeft" align="right" valign="top">UnityEvent&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad5372b84fc066acf8cc493b32059fe52">StopedOnChatRestricted</a></td></tr>
+<tr class="memdesc:ad5372b84fc066acf8cc493b32059fe52"><td class="mdescLeft">&#160;</td><td class="mdescRight">Occures when the Voice Result Restricted EVoiceResult is recieved from the Steam API.  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad5372b84fc066acf8cc493b32059fe52">More...</a><br /></td></tr>
 <tr class="separator:ad5372b84fc066acf8cc493b32059fe52"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae934be2f95359fe6fbc8a80141f08e90"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_byte_array_event.html">ByteArrayEvent</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ae934be2f95359fe6fbc8a80141f08e90">VoiceStream</a></td></tr>
+<tr class="memdesc:ae934be2f95359fe6fbc8a80141f08e90"><td class="mdescLeft">&#160;</td><td class="mdescRight">Occures every frame when the Steam API has a voice stream payload from the user.  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ae934be2f95359fe6fbc8a80141f08e90">More...</a><br /></td></tr>
 <tr class="separator:ae934be2f95359fe6fbc8a80141f08e90"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:a5e85e4bcc5e4860b2639b12f4c5e268c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#a5e85e4bcc5e4860b2639b12f4c5e268c">IsRecording</a><code> [get]</code></td></tr>
+<tr class="memdesc:a5e85e4bcc5e4860b2639b12f4c5e268c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Is the system currently recording audio data.  <a href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#a5e85e4bcc5e4860b2639b12f4c5e268c">More...</a><br /></td></tr>
 <tr class="separator:a5e85e4bcc5e4860b2639b12f4c5e268c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Manages the Steam Voice feature. </p>
+<p><a href="https://partner.steamgames.com/doc/features/voice">https://partner.steamgames.com/doc/features/voice</a></p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ac0b1e8d4814afbdb9c2db8645fd0eb07"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac0b1e8d4814afbdb9c2db8645fd0eb07">&#9670;&nbsp;</a></span>PlayVoiceData()</h2>
 
@@ -137,6 +151,14 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Players a recieved Steam Voice package through the <a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html#ad831d025dbcc807c61b868dd556486db" title="The audio source to output recieved and decoded voice messages to.">OutputSource</a> AudioSource. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">buffer</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -155,6 +177,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Starts the Steam API recording audio from the user's configured mic </p>
+
 </div>
 </div>
 <a id="ab6b75ba31fabfd716f61d95d4b63b202"></a>
@@ -172,6 +196,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Stops the Steam API from recording audio for the user's configured mic </p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -187,6 +213,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>The audio source to output recieved and decoded voice messages to. </p>
+
 </div>
 </div>
 <a id="ad5372b84fc066acf8cc493b32059fe52"></a>
@@ -201,6 +229,8 @@ Properties</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Occures when the Voice Result Restricted EVoiceResult is recieved from the Steam API. </p>
+
 </div>
 </div>
 <a id="ae934be2f95359fe6fbc8a80141f08e90"></a>
@@ -214,6 +244,8 @@ Properties</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Occures every frame when the Steam API has a voice stream payload from the user. </p>
 
 </div>
 </div>
@@ -238,6 +270,8 @@ Properties</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Is the system currently recording audio data. </p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -249,7 +283,7 @@ Properties</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_heathen_engineering.html">HeathenEngineering</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api.html">SteamApi</a></li><li class="navelem"><a class="el" href="namespace_heathen_engineering_1_1_steam_api_1_1_game_services.html">GameServices</a></li><li class="navelem"><a class="el" href="class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_voice_manager.html">SteamworksVoiceManager</a></li>
-    <li class="footer">Generated on Sun Jan 19 2020 16:09:35 for Steamworks by
+    <li class="footer">Generated on Fri Feb 14 2020 09:39:13 for Steamworks by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
