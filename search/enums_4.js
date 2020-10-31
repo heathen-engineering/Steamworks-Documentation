@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['variablereferencetype_3676',['VariableReferenceType',['../namespace_heathen_engineering.html#ad78295f9ab46175ebca5e7e452933447',1,'HeathenEngineering']]]
+  ['uixsyncinitializationmode_5427',['UixSyncInitializationMode',['../namespace_heathen_engineering_1_1_u_i_x.html#a3a1ab5a2aa0c6cc262343dac1a066eac',1,'HeathenEngineering::UIX']]]
 ];

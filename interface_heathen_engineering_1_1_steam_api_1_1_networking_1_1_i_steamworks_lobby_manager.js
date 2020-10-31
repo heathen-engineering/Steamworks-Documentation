@@ -9,6 +9,7 @@ var interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_
     [ "QuickMatch", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a771fb6b35cdba94558cfc230ff114e41", null ],
     [ "SendChatMessage", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a8daff68acd1104fdc5c1c899e7229bd7", null ],
     [ "SetLobbyGameServer", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a06f0bcb83d27493eec0e535cd36433f6", null ],
+    [ "SetLobbyGameServer", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a2b646df54c249941cada68981bdffefe", null ],
     [ "SetLobbyMetadata", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a7d2e1711c9e1dfe1aba91f71d55f2942", null ],
     [ "SetMemberMetadata", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a9d1a41eabd2df213352d92ea5a0e0a96", null ],
     [ "IsQuickSearching", "interface_heathen_engineering_1_1_steam_api_1_1_networking_1_1_i_steamworks_lobby_manager.html#a5bc1fc5842612821d62c1a9d96192c74", null ],

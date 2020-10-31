@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['error_3678',['Error',['../namespace_heathen_engineering_1_1_tools.html#a73c6508a5c8c32ad042928ed896c797ba902b0d55fddef6f8d651fe1035b7d4bd',1,'HeathenEngineering::Tools']]],
-  ['errorsonly_3679',['ErrorsOnly',['../class_heathen_engineering_1_1_tools_1_1_console_logger.html#aa24bac575e26e6d01f6d50ef3e750c37ae0a1284706116eec7a83a489235a9ef8',1,'HeathenEngineering::Tools::ConsoleLogger']]]
+  ['background_5fcolor_5435',['background_color',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html#ae987f7ce1664fb88c48f8c544380806ca1e9c06380fa61f82b6324ef8d21f90ab',1,'HeathenEngineering::SteamApi::PlayerServices']]],
+  ['brazilian_5436',['brazilian',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html#a10d4a8bf1950236bc4d190cf9c75bdb1acd94ad93bf1937abfd7c118a36895cb2',1,'HeathenEngineering::SteamApi::PlayerServices']]],
+  ['bulgarian_5437',['bulgarian',['../namespace_heathen_engineering_1_1_steam_api_1_1_player_services.html#a10d4a8bf1950236bc4d190cf9c75bdb1a44e61d85167b7bad742dc479f4d85063',1,'HeathenEngineering::SteamApi::PlayerServices']]]
 ];

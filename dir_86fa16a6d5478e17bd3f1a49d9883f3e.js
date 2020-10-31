@@ -12,14 +12,16 @@ var dir_86fa16a6d5478e17bd3f1a49d9883f3e =
     [ "FriendChatMessageEvent.cs", "_friend_chat_message_event_8cs.html", [
       [ "FriendChatMessageEvent", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_friend_chat_message_event.html", null ]
     ] ],
-    [ "HeathensSteamOverlay.cs", "_heathens_steam_overlay_8cs.html", [
-      [ "HeathensSteamOverlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_heathens_steam_overlay" ]
-    ] ],
+    [ "HeathensSteamOverlay.cs", "_heathens_steam_overlay_8cs.html", null ],
     [ "SteamAvatarRawImage.cs", "_steam_avatar_raw_image_8cs.html", [
       [ "SteamAvatarRawImage", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_avatar_raw_image" ]
     ] ],
     [ "SteamSettings.cs", "_steam_settings_8cs.html", [
-      [ "SteamSettings", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings" ]
+      [ "SteamSettings", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings" ],
+      [ "SteamClan", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_steam_clan.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_steam_clan" ],
+      [ "GameClient", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client" ],
+      [ "Overlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client_1_1_overlay.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client_1_1_overlay" ],
+      [ "StringKeyValuePair", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_string_key_value_pair.html", "struct_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_string_key_value_pair" ]
     ] ],
     [ "SteamUserData.cs", "_steam_user_data_8cs.html", [
       [ "SteamUserData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_user_data" ]
@@ -31,7 +33,8 @@ var dir_86fa16a6d5478e17bd3f1a49d9883f3e =
       [ "SteamUserIconButton", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_u_i_1_1_steam_user_icon_button" ]
     ] ],
     [ "SteamUtilities.cs", "_steam_utilities_8cs.html", [
-      [ "SteamUtilities", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities" ]
+      [ "SteamUtilities", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities" ],
+      [ "Colors", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities_1_1_colors.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities_1_1_colors" ]
     ] ],
     [ "SteamworksFoundationManager.cs", "_steamworks_foundation_manager_8cs.html", [
       [ "SteamworksFoundationManager", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager" ]

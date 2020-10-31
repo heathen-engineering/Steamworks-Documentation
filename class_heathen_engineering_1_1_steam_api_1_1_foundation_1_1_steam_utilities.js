@@ -1,5 +1,6 @@
 var class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities =
 [
+    [ "Colors", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities_1_1_colors.html", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities_1_1_colors" ],
     [ "ConvertUnixDate", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html#a31f5452f171257100853a2b95d2cf08b", null ],
     [ "FlipImageBufferVertical", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html#a6882571da15614ea266d8f69e29aa817", null ],
     [ "GetAppBuildId", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_utilities.html#adf3692012c40f4d932fa08589cf60b1e", null ],

@@ -1,0 +1,35 @@
+var _valve_item_def_schema_attributes_8cs =
+[
+    [ "ValveItemDefSchemaAttributes", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806c", [
+      [ "name", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cab068931cc450442b63f5b3d276ea4297", null ],
+      [ "description", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca67daf92c833c41c95db874e18fcb2786", null ],
+      [ "display_type", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cac3a38e97f143539d75ad085ff424671c", null ],
+      [ "promo", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca51b6076ed7a7f544f55a9f5868fc8359", null ],
+      [ "drop_start_time", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cacd813a6aeea707e0ab4807e1f7f7ff26", null ],
+      [ "price", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca78a5eb43deef9a7b5b9ce157b9d52ac4", null ],
+      [ "price_category", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca883522a087443e7f08160701f0536aed", null ],
+      [ "background_color", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca1e9c06380fa61f82b6324ef8d21f90ab", null ],
+      [ "name_color", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca2f350c0cca317e8a54f9c7c0e974deb3", null ],
+      [ "icon_url", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca5015036c7c0e062feeb5be1fb222b459", null ],
+      [ "icon_url_large", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca6d815e55d1de72091f9e0105e6b080a6", null ],
+      [ "marketable", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca88a481f18882be5214930af56a1c501b", null ],
+      [ "tradable", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca1a589790a8de3487c027c2d83dc1c5f4", null ],
+      [ "tags", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cad57ac45256849d9b13e2422d91580fb9", null ],
+      [ "tag_generators", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca6a91fbe6f3ceb94b7cfb0cfaea92ca09", null ],
+      [ "store_tags", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca31b954d9c0f178def20788d060e502e3", null ],
+      [ "store_images", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca5de227b66d4b1bd3c1595e5fe17b350c", null ],
+      [ "hidden", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca662f707d5491e9bce8238a6c0be92190", null ],
+      [ "store_hidden", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca1fc5eb0e6b71b6698aea279409684ef4", null ],
+      [ "use_drop_limit", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cae25bd839b6924bb0a1688c6de9276794", null ],
+      [ "drop_limit", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca793e26861c6eec121b3dd876e6a53bb0", null ],
+      [ "drop_interval", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca24986157004fe75762f0d40a889de7a7", null ],
+      [ "use_drop_window", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca5127c326134c8f1788eb49b904a89526", null ],
+      [ "drop_window", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806cace50ebf2f0c10cba923fc17f2ef35840", null ],
+      [ "drop_max_per_winidow", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca537f02db3efcd2352930c836a26538eb", null ],
+      [ "granted_manually", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca3f4ae734900c088257d409b5c7fa31f5", null ],
+      [ "use_bundle_price", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806caf71649744ed895d028d2796d95c80f2e", null ],
+      [ "item_slot", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca6dab10bce0156cab899027cb09baf853", null ],
+      [ "item_quality", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806caccbf642854e40e6ef032f1e5893dc9e2", null ],
+      [ "purchase_bundle_discount", "_valve_item_def_schema_attributes_8cs.html#ae987f7ce1664fb88c48f8c544380806ca19b499e61e51b58a41438a5f955a5a65", null ]
+    ] ]
+];

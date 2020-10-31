@@ -8,6 +8,7 @@ var class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_serv
     [ "BotPlayerCount", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#a41370a32a504f0c6ab322095dad267ac", null ],
     [ "Connected", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#af9100bce7fb0b3e03dfc98259308f51b", null ],
     [ "Disconnected", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#ac0ae70a4993d4ef37bc316ccb14dd834", null ],
+    [ "EnableHeartbeats", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#aa5828fbe350362ffd14aa6c2be24ccd6", null ],
     [ "EnableMirror", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#a98fe33fea66ea52e83beecca71799a8c", null ],
     [ "Failure", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#a9d1572c7b7a5dbc4842d338501b725ac", null ],
     [ "GameData", "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_heathen_game_server_settings.html#a0346ee77efcced84f4717f40dcbeb23d", null ],
