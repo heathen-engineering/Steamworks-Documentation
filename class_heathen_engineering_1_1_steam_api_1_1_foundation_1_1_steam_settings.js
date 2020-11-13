@@ -5,6 +5,8 @@ var class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings =
     [ "Init", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a3f0423598f489391a3af10f5087f1ec6", null ],
     [ "applicationId", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#ae8ee47db859f2f8989c19cfb4d3c90ab", null ],
     [ "client", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#abe670babdc0113e241bceb4cd0e925a5", null ],
+    [ "current", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a7b251b342ad431a8b50f0e7e90f74225", null ],
+    [ "isDebugging", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a2e7cc224604055c674df48c8fcd487ba", null ],
     [ "KnownUsers", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a81164216eaa349e6937ae01b4723c504", null ],
     [ "LastKnownPlayerCount", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a5b7178f4d51ccd7fd5386402ef900de3", null ],
     [ "NotificationPosition", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings.html#a2d99bc8e7e2d5b87282dcedcaf96d469", null ],

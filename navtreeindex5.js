@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"class_heathen_engineering_1_1_scriptable_1_1_editors_1_1_serializable_vector2_int_drawer.html#af51d5f39f4dbe7b06844fd8451eba184":[1,0,0,2,0,3,0],
 "class_heathen_engineering_1_1_scriptable_1_1_editors_1_1_serializable_vector3_drawer.html":[1,0,0,2,0,4],
 "class_heathen_engineering_1_1_scriptable_1_1_editors_1_1_serializable_vector3_drawer.html#a85770eb5147abd6baa4110fab4ec4ad1":[1,0,0,2,0,4,0],
 "class_heathen_engineering_1_1_scriptable_1_1_editors_1_1_serializable_vector4_drawer.html":[1,0,0,2,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "class_heathen_engineering_1_1_scriptable_1_1_vector2_list_reference.html#ae3638fdd5e112260bad46d19e36c309e":[1,0,0,2,108,0],
 "class_heathen_engineering_1_1_scriptable_1_1_vector2_list_variable.html":[1,0,0,2,109],
 "class_heathen_engineering_1_1_scriptable_1_1_vector2_reference.html":[1,0,0,2,110],
-"class_heathen_engineering_1_1_scriptable_1_1_vector2_reference.html#a07deabc43a940b03ae7f970229d32d01":[1,0,0,2,110,2]
+"class_heathen_engineering_1_1_scriptable_1_1_vector2_reference.html#a07deabc43a940b03ae7f970229d32d01":[1,0,0,2,110,2],
+"class_heathen_engineering_1_1_scriptable_1_1_vector2_reference.html#a6c42140b369c6296536581aa0e22276c":[1,0,0,2,110,0]
 };

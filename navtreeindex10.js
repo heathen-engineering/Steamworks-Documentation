@@ -1,5 +1,9 @@
 var NAVTREEINDEX10 =
 {
+"class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a148355a7c354883d680524ffdbee0c2c":[1,0,0,4,4,23,29],
+"class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a16493cd70805a5bfc39eb512c3cadfe6":[1,0,0,4,4,23,61],
+"class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a16955f70a49b700d875f61288d2c3da4":[1,0,0,4,4,23,21],
+"class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a2002222f8ab64726618426d8cfe264a0":[1,0,0,4,4,23,36],
 "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a2128d31275ccaa04cb75d36997769eda":[1,0,0,4,4,23,54],
 "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a227b0b053b72e264058a03531d96c6a3":[1,0,0,4,4,23,44],
 "class_heathen_engineering_1_1_steam_api_1_1_networking_1_1_steamworks_lobby_settings.html#a22c1e374bb34747df55c7ef3be8b267f":[1,0,0,4,4,23,52],
@@ -245,9 +249,5 @@ var NAVTREEINDEX10 =
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html#ac1ae6c50ca540f4539f0b8362e5099c1":[1,0,0,4,5,22,1,6],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html#ad076abf1173d580a26fff57e2827354c":[1,0,0,4,5,22,1,3],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html#ae140d3c718f633ab38f6bc9114fe51f0":[1,0,0,4,5,22,1,1],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html#af5b42849d941ed5e3f9ef01c573383d8":[1,0,0,4,5,22,1,5],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html":[1,0,0,4,5,23],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a0b01498b382e0964199fb0ab61f1a59a":[1,0,0,4,5,23,26],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a0fab667960cb695594cddaef195f0e67":[1,0,0,4,5,23,17],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a135a9e5d1b37d11d68a87c016d7e4f84":[1,0,0,4,5,23,28]
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_authentication_1_1_ticket.html#af5b42849d941ed5e3f9ef01c573383d8":[1,0,0,4,5,22,1,5]
 };

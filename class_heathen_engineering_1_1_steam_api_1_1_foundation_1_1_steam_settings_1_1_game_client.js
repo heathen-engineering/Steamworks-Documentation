@@ -4,8 +4,11 @@ var class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_
     [ "ClearAchievement", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a7368907d51baff91d546674a84e5d985", null ],
     [ "ClearAchievement", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a3c35906dafc54266755e301ef8d1d2ae", null ],
     [ "ClearRichPresence", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#af387429320709f9b8a320559c411c12e", null ],
+    [ "GetFollowerCount", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a43a2435fcbe09fbebeffd32d8d3b35c6", null ],
     [ "GetUserData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#ace190cee747e7d1e037b6a8d9c330c92", null ],
+    [ "GetUserData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#aed1076fc7bd7e412e5ef98e6d381f2d1", null ],
     [ "HandleOnOverlayOpen", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a26ea26f0f6f594aad92d3ac88f8f2a43", null ],
+    [ "ListClans", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a0fbfacd96d7c42f05ec95fdc70465157", null ],
     [ "ListenForFriendMessages", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#aac48c74a25523b3059425662b9589197", null ],
     [ "ListFriends", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a8562ce6543b70da17fa9b4316df8cc22", null ],
     [ "RefreshAvatar", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#af0a68be4e543bbb6b649634530511944", null ],
@@ -37,5 +40,6 @@ var class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_
     [ "onUserStatsStored", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#ab556df2e2912af54a434264340c29f76", null ],
     [ "overlay", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a2c60cb5256c21964b313bb05378bbdba", null ],
     [ "stats", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a2964f7d3f27532e6ebca73f277f773bf", null ],
+    [ "user", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#a9714ef191f39ff500526618a1c9c7ffe", null ],
     [ "userData", "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steam_settings_1_1_game_client.html#acd53253b44fc15e73b5ff74da19bdd1f", null ]
 ];

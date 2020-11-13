@@ -1,5 +1,9 @@
 var NAVTREEINDEX8 =
 {
+"class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#ad20524fff36aa5cf61f23c3048be4a15":[1,0,0,4,2,13,38],
+"class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#ad294c2deffc41be66af41c4f623ce842":[1,0,0,4,2,13,7],
+"class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#ad3d60da7251abe7cd47d856732b14f01":[1,0,0,4,2,13,69],
+"class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#ad5ddbb8b436b8d6b0b9d6fb9460c1dac":[1,0,0,4,2,13,19],
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#ad98a21e587c634eef3993a786fa29fe4":[1,0,0,4,2,13,80],
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#adaad49fb472199ab09930de08db5d3f8":[1,0,0,4,2,13,106],
 "class_heathen_engineering_1_1_steam_api_1_1_foundation_1_1_steamworks_foundation_manager.html#adc4acdde3874dad45bb68393a483c8a5":[1,0,0,4,2,13,74],
@@ -245,9 +249,5 @@ var NAVTREEINDEX8 =
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a7e7c65a1a36a99793509178502331227":[1,0,0,4,3,8,5],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a8236529174a2f16d81c500c740db0c59":[1,0,0,4,3,8,0],
 "class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a8324571852f1198a1fcd2611e4a52a0f":[1,0,0,4,3,8,36],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a83cdbcb438f2a122d874a9b33868966d":[1,0,0,4,3,8,98],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a8541d8f64ff70387282844c46ba2dea6":[1,0,0,4,3,8,110],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a85fe74921ab862b38e8fd281a60290f3":[1,0,0,4,3,8,58],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a89d1a05cfbee7f700780070028711cba":[1,0,0,4,3,8,17],
-"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a8c2f1b7aa1aff995b22fa30738490d51":[1,0,0,4,3,8,6]
+"class_heathen_engineering_1_1_steam_api_1_1_game_services_1_1_steamworks_workshop.html#a83cdbcb438f2a122d874a9b33868966d":[1,0,0,4,3,8,98]
 };

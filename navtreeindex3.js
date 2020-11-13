@@ -1,6 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"class_heathen_engineering_1_1_events_1_1_int_change_event_listener.html#a48d2782f012b8a97bbcd10efee6f9113":[1,0,0,1,35,0],
 "class_heathen_engineering_1_1_events_1_1_int_change_event_listener.html#a9e7411bfc0ece29b3efc08bf23fce554":[1,0,0,1,35,7],
 "class_heathen_engineering_1_1_events_1_1_int_change_event_listener.html#aaaff0cbf4164e9b0ffafb1305e108da2":[1,0,0,1,35,6],
 "class_heathen_engineering_1_1_events_1_1_int_change_event_listener.html#ac120c2920d381e0e3fe8cfa84d807a16":[1,0,0,1,35,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX3 =
 "class_heathen_engineering_1_1_events_1_1_unsigned_int_change_event_listener.html#a9baa7d8ffcbfa7454ff3fdbaa87b1a16":[1,0,0,1,199,3],
 "class_heathen_engineering_1_1_events_1_1_unsigned_int_change_event_listener.html#aa6a70096315888212797996c57fe9af3":[1,0,0,1,199,5],
 "class_heathen_engineering_1_1_events_1_1_unsigned_int_change_event_listener.html#aa8298d0577ae95d83f17833feef20bbc":[1,0,0,1,199,4],
-"class_heathen_engineering_1_1_events_1_1_unsigned_int_change_event_listener.html#ada0152adc8bba64cd484029d36e8008a":[1,0,0,1,199,1]
+"class_heathen_engineering_1_1_events_1_1_unsigned_int_change_event_listener.html#ada0152adc8bba64cd484029d36e8008a":[1,0,0,1,199,1],
+"class_heathen_engineering_1_1_events_1_1_unsigned_int_game_event.html":[1,0,0,1,200]
 };

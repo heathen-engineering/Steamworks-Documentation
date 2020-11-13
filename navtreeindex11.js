@@ -1,5 +1,9 @@
 var NAVTREEINDEX11 =
 {
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html":[1,0,0,4,5,23],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a0b01498b382e0964199fb0ab61f1a59a":[1,0,0,4,5,23,26],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a0fab667960cb695594cddaef195f0e67":[1,0,0,4,5,23,17],
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a135a9e5d1b37d11d68a87c016d7e4f84":[1,0,0,4,5,23,28],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a2417e5013d95dd4451131579ba195b89":[1,0,0,4,5,23,5],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a2cd89e75b939aff2c32d7d27dbf14970":[1,0,0,4,5,23,14],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_steamworks_inventory_manager.html#a367c20d3b177ed113591a319e25bf752":[1,0,0,4,5,23,20],
@@ -245,9 +249,5 @@ var NAVTREEINDEX11 =
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#a8a3eb4303ca2a8c7c77559eecc83c342":[1,0,0,4,5,35,9],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#ac8b7f7cbe1dd27d7c2765e59cfadeac6":[1,0,0,4,5,35,8],
 "class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#ad67a083848000d6cb5226d7485e627a0":[1,0,0,4,5,35,5],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#af67ce15d30fa504075e36477048ab3e8":[1,0,0,4,5,35,6],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#af7d1965dbc0851853e174df6cb5cb0f6":[1,0,0,4,5,35,1],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#afea44989418d035ba7e887e8748b8e6c":[1,0,0,4,5,35,4],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_inventory_item_tag.html":[1,0,0,4,5,36],
-"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_inventory_item_tag.html#a6a2fa98cab613d055090d0ecfc80b66f":[1,0,0,4,5,36,2]
+"class_heathen_engineering_1_1_steam_api_1_1_player_services_1_1_valve_item_def_attribute.html#af67ce15d30fa504075e36477048ab3e8":[1,0,0,4,5,35,6]
 };
